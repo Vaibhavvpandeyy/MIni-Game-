@@ -1,4 +1,4 @@
-🐍 Stone, Paper, Scissors
+🐍 Stone, Paper, Scissors!
 This is a simple, command-line Python script that lets you play the classic game of "Stone, Paper, Scissors" against the computer.
 The computer's choice is randomized to ensure a fair game.
 
