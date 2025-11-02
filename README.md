@@ -2,7 +2,7 @@
 This is a simple, command-line Python script that lets you play the classic game of "Stone, Paper, Scissors" against the computer.
 The computer's choice is randomized to ensure a fair game.
 
-🎮 How to Play
+🎮 How to Play: 
 1.Once the script is running, you will be prompted to make a choice:
    Stone Paper or Scissors?
    Type st pp or sc :
@@ -20,7 +20,6 @@ The computer's choice is randomized to ensure a fair game.
   Computer's choice: Scissors
   You Win!
 
-🛠️ Technologies Used
+🛠️ Technologies Used: 
 Python 3
-
 random module (a built-in Python library)
